@@ -20,8 +20,8 @@
 // 26.09.2018 Jay M Ericsson: compiler warnings removed.
 // -----
 
-#ifndef OneButton_h
-#define OneButton_h
+#ifndef anotherOneButton_h
+#define anotherOneButton_h
 
 #include "Arduino.h"
 
